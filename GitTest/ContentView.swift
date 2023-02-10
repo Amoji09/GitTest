@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "minus")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("test2")
+            Text("asdfasdfasdg")
         }
         .padding()
     }
